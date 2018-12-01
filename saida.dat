@@ -1,0 +1,16 @@
+Waf: Entering directory `/home/ubuntu/Documentos/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/home/ubuntu/Documentos/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.956s)
+----------------- Tx e Rx -----------------
+Pacotes TxWLAN-geral 44525 e RxWLAN-geral no AP 0
+Pacotes TxWBAN-AlertaTotal 0 e RxWBAN-total em LAN 0
+Pacotes TxWBAN 1º-Alerta/nó 0 e Rx em LAN 0
+----------------- Atrasos alerta médico (1ºalerta) -----------------
+AC_VarAM1
+----------------- Atrasos fluxos gerais -----------------
+AC_VarBE
+AC_VarVI
+AC_VarVO
+--------- Trafego | AtrasoMedio | AtrasoTotal | Tx | Rx | TxEntrega | TxPerda  -------
+AC_AM1 0 0 0 0 -nan -nan
